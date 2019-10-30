@@ -1,2 +1,0 @@
-# yangglair.github.io
-mywebsite
